@@ -1,0 +1,13 @@
+{
+  "Chain": [
+    {
+      "Index": 0,
+      "Timestamp": "2024-01-28T20:12:18.28159-05:00",
+      "Data": [],
+      "PrevHash": "",
+      "Hash": "0000b112cd55c3e37fc0b8d188122b4cadbac831c3488ae9f8b648cf42bcdfbd",
+      "Nonce": 174394
+    }
+  ],
+  "TransactionPool": null
+}
